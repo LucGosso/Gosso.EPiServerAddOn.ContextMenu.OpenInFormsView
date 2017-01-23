@@ -1,6 +1,6 @@
 # Gosso.EPiServerAddOn.ContextMenu.OpenInFormsView
 
-An addon which adds a command to the page tree that reloads the children of the selected tree node.
+An Episerver addon adds a command to the page tree that opens the Content in forms view.
 
 # Installation
 

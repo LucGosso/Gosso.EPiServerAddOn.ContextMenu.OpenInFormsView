@@ -1,0 +1,22 @@
+﻿<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Gosso.EPiServerAddOn.ContextMenu.OpenInFormsView</id>
+    <version>$version$</version>
+    <title>OpenInFormsView for Episerver UI</title>
+    <authors>Luc Gosso</authors> 
+    <owners>Gosso Systems AB</owners> 
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Adds a command to the page tree that opens the page in form view for edit</description>
+    <releaseNotes>More information https://github.com/Lucstar/Gosso.EPiServerAddOn.ContextMenu.OpenInFormsView </releaseNotes>
+    <copyright>Free</copyright>
+    <tags>EPiServerModulePackage EPiServer-UI</tags>
+    <dependencies>
+      <dependency id="EPiServer.CMS.UI" version="[7.6.0,11.0)" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="bin\$configuration$\Gosso.EPiServerAddOn.ContextMenu.OpenInFormsView.dll" target="lib\net45\" />
+    <file src="bin\$configuration$\Gosso.EPiServerAddOn.ContextMenu.OpenInFormsView.zip" target="content\modules\_protected\Gosso.EPiServerAddOn.ContextMenu.OpenInFormsView\" />
+  </files>
+</package>

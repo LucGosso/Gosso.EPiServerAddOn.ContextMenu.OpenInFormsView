@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<languages>
+  <language name="English" id="en">
+    <addon>
+      <formsview-open>
+        <command>
+          <label>Open in forms edit</label>
+          <tooltip>Opens in forms edit</tooltip>
+        </command>
+      </formsview-open>
+    </addon>
+  </language>
+  <language name="Swedish" id="sv">
+    <addon>
+      <formsview-open>
+        <command>
+          <label>Öppna i formulärläge</label>
+          <tooltip>Öppna i formulärläge</tooltip>
+        </command>
+      </formsview-open>
+    </addon>
+  </language>
+</languages>

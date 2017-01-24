@@ -1,6 +1,9 @@
 # Gosso.EPiServerAddOn.ContextMenu.OpenInFormsView
 
-An Episerver addon adds a command to the page tree that opens the Content in forms view.
+An Episerver addon that adds a command to the page tree that opens the content in forms view.
+
+![alt text](https://raw.githubusercontent.com/Lucstar/Gosso.EPiServerAddOn.ContextMenu.OpenInFormsView/master/OpenInFormsView.png "This is the Context menu on the tree")
+
 
 # Installation
 

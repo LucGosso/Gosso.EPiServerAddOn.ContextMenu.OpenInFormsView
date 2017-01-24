@@ -42,7 +42,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="EmbeddedLangFiles\addon_EN.xml" />
+    <EmbeddedResource Include="EmbeddedLangFiles\addon_en_sv.xml" />
     <Content Include=".nuget\nuget.exe" />
     <Content Include="ClientResources\commands\treenode.js" />
     <Content Include="ClientResources\ContextMenuCommandProvider.js" />

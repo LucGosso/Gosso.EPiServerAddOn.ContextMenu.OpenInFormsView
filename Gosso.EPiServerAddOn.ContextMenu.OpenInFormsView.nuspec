@@ -16,7 +16,7 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="bin\$configuration$\Gosso.EPiServerAddOn.ContextMenu.OpenInFormsView.dll" target="lib\net45\" />
+    <file src="bin\$configuration$\Gosso.EPiServerAddOn.ContextMenu.OpenInFormsView.dll" target="content\modulesbin\" />
     <file src="bin\$configuration$\Gosso.EPiServerAddOn.ContextMenu.OpenInFormsView.zip" target="content\modules\_protected\Gosso.EPiServerAddOn.ContextMenu.OpenInFormsView\" />
   </files>
 </package>

@@ -4,8 +4,8 @@
     <addon>
       <formsview-open>
         <command>
-          <label>Open in forms edit</label>
-          <tooltip>Opens in forms edit</tooltip>
+          <label>Open in forms view</label>
+          <tooltip>Opens in forms view</tooltip>
         </command>
       </formsview-open>
     </addon>
@@ -14,8 +14,8 @@
     <addon>
       <formsview-open>
         <command>
-          <label>Öppna i formulärläge</label>
-          <tooltip>Öppna i formulärläge</tooltip>
+          <label>Öppna i formulärsläge</label>
+          <tooltip>Öppnas i formulärsläge</tooltip>
         </command>
       </formsview-open>
     </addon>

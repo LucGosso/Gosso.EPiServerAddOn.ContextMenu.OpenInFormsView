@@ -6,9 +6,9 @@ An Episerver addon that adds a command to the page tree that opens the content i
 
 ![alt text](https://raw.githubusercontent.com/Lucstar/Gosso.EPiServerAddOn.ContextMenu.OpenInFormsView/master/OpenInFormsView.png "This is the Context menu on the tree")
 
-Also check out these AddOn on same theme:
-https://github.com/episerver/AddOn.ReloadChildren
-https://github.com/mariajemaria/ContextMenuOpenInNewTab
+Also check out these AddOn on same theme:  
+https://github.com/episerver/AddOn.ReloadChildren   
+https://github.com/mariajemaria/ContextMenuOpenInNewTab  
 
 # Installation
 

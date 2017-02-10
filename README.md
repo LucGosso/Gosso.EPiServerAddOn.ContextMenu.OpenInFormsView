@@ -1,10 +1,10 @@
 # Gosso.EPiServerAddOn.ContextMenu.OpenInFormsView
 
-[![Platform](https://img.shields.io/badge/Episerver-%207.6+-orange.svg?style=flat)](http://world.episerver.com/cms/) [![Platform](https://img.shields.io/badge/Episerver-%2010.0-green.svg?style=flat)](http://world.episerver.com/cms/)
+[![Platform](https://img.shields.io/badge/Episerver-%208.0+-orange.svg?style=flat)](http://world.episerver.com/cms/) [![Platform](https://img.shields.io/badge/Episerver-%2010.0-green.svg?style=flat)](http://world.episerver.com/cms/)
 
 An Episerver addon that adds a command to the page tree that opens the content in forms view.
 
-![alt text](https://raw.githubusercontent.com/Lucstar/Gosso.EPiServerAddOn.ContextMenu.OpenInFormsView/master/OpenInFormsView.png "This is the Context menu on the tree")
+![alt text](https://raw.githubusercontent.com/LucGosso/Gosso.EPiServerAddOn.ContextMenu.OpenInFormsView/master/OpenInFormsView.png "This is the Context menu on the tree")
 
 Also check out these AddOn on same theme:
 https://github.com/episerver/AddOn.ReloadChildren

@@ -4,8 +4,8 @@
     <addon>
       <formsview-open>
         <command>
-          <label>Open in forms view</label>
-          <tooltip>Opens in forms view</tooltip>
+          <label>Open in Forms View</label>
+          <tooltip>Opens in Forms View</tooltip>
         </command>
       </formsview-open>
     </addon>

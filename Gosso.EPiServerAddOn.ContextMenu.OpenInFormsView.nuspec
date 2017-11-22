@@ -6,15 +6,15 @@
     <title>OpenInFormsView for Episerver UI</title>
     <authors>Luc Gosso</authors> 
     <owners>Gosso Systems AB</owners>
-    <iconUrl>http://devblog.gosso.se/wp-content/uploads/2016/09/o.png</iconUrl>
+    <iconUrl>https://devblog.gosso.se/wp-content/uploads/2016/09/o.png</iconUrl>
     <projectUrl>https://github.com/LucGosso/Gosso.EPiServerAddOn.ContextMenu.OpenInFormsView</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>    
-    <description>Adds a command to the page tree that opens the page in form view for edit</description>
+    <description>Adds a command to the page tree that opens the page in form view for edit (CMS 9-11 compat)</description>
     <releaseNotes>More information https://github.com/LucGosso/Gosso.EPiServerAddOn.ContextMenu.OpenInFormsView </releaseNotes>
     <copyright>Free</copyright>
-    <tags>EPiServerModulePackage EPiServer-UI EPiServerAddOn ThirdPartyAddon Gosso</tags>
+    <tags>EPiServerModulePackage EPiServer-UI EPiServerAddOn ThirdPartyAddon Gosso CMS11</tags>
     <dependencies>
-      <dependency id="EPiServer.CMS.UI" version="[8.0,11.0)" />
+      <dependency id="EPiServer.CMS.UI" version="[9.0,12.0)" />
     </dependencies>
   </metadata>
   <files>

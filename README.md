@@ -12,7 +12,9 @@ https://github.com/mariajemaria/ContextMenuOpenInNewTab
 
 # Installation
 
-There is a nuget package available under the releases tab. This can be installed via the package manager console in Visual Studio.
+.1 - You can find it on Nuget.episerver.com: http://nuget.episerver.com/en/OtherPages/Package/?packageId=Gosso.EPiServerAddOn.ContextMenu.OpenInFormsView
+
+.2 - There is a nuget package available under the releases tab. This can be installed via the package manager console in Visual Studio.
 
 Put it in your local nuget feed, Run "install-package Gosso.EPiServerAddOn.ContextMenu.OpenInFormsView" in package manager console.
 

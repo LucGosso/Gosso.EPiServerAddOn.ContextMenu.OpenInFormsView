@@ -1,4 +1,5 @@
-# Gosso.EPiServerAddOn.ContextMenu.OpenInFormsView
+# Gosso.EPiServerAddOn.ContextMenu.OpenInFormsView version 
+**version 1.0.2 (2017-11-22)**
 
 [![Platform](https://img.shields.io/badge/Episerver-%208.0+-orange.svg?style=flat)](http://world.episerver.com/cms/) [![Platform](https://img.shields.io/badge/Episerver-%2010.0-green.svg?style=flat)](http://world.episerver.com/cms/) [![Platform](https://img.shields.io/badge/Episerver-%2011.1-green.svg?style=flat)](http://world.episerver.com/cms/)
 

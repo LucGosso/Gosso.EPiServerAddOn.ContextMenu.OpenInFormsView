@@ -1,6 +1,6 @@
 # Gosso.EPiServerAddOn.ContextMenu.OpenInFormsView
 
-[![Platform](https://img.shields.io/badge/Episerver-%208.0+-orange.svg?style=flat)](http://world.episerver.com/cms/) [![Platform](https://img.shields.io/badge/Episerver-%2010.0-green.svg?style=flat)](http://world.episerver.com/cms/)
+[![Platform](https://img.shields.io/badge/Episerver-%208.0+-orange.svg?style=flat)](http://world.episerver.com/cms/) [![Platform](https://img.shields.io/badge/Episerver-%2010.0-green.svg?style=flat)](http://world.episerver.com/cms/) [![Platform](https://img.shields.io/badge/Episerver-%2011.1-green.svg?style=flat)](http://world.episerver.com/cms/)
 
 An Episerver addon that adds a command to the page tree that opens the content in forms view.
 
